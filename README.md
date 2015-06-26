@@ -4,7 +4,7 @@ Geekwise Robotics Presents the One Day Robotics Course
 
 ## Installation
 
-Before we start building the robot we need to download the [Arduino IDE!](https://www.arduino.cc/en/Main/Software). Download the IDE for your system. 
+Before we start building the robot we need to download the [Arduino IDE!](https://www.arduino.cc/en/Main/Software) Download the IDE for your system. 
 
 ##Things to know about the Arduino IDE
 
